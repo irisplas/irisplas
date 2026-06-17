@@ -67,7 +67,7 @@ Fullstack developer in opleiding.
 > Java Spring Boot webapplicatie met Thymeleaf templating voor het bijhouden van FIFA World Cup data.
 
 - **Tech:** Java · Spring Boot · Thymeleaf · MySQL
--  *(coming soon)*
+-  [GitHub repository](https://github.com/irisplas/fifa-worldcup-app)
 
 
 
