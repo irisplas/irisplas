@@ -5,7 +5,7 @@
 **Toegepaste Informatica student aan HoGent**  
 Fullstack developer in opleiding.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/irisplas](https://www.linkedin.com/in/iris-plas-006aab3b9/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iris-plas-006aab3b9/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irisplas)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iris.plas.ip@gmail.com)
 
@@ -13,7 +13,7 @@ Fullstack developer in opleiding.
 
 ---
 
-## Tech Stack
+##  Tech Stack
 
 **Frontend**
 
@@ -41,30 +41,30 @@ Fullstack developer in opleiding.
 
 ---
 
-## Projecten
+##  Projecten
 
-### Smaakvol — Recepten beheer app
+###  Smaakvol — Recepten beheer app
 > Fullstack webapplicatie voor het opslaan, ontdekken en beheren van recepten.
 
 - **Frontend:** React + Vite + Tailwind CSS + Cypress (e2e testen)
 - **Backend:** NestJS + Drizzle ORM + MySQL + Multer (foto upload) + Swagger
 - **Deploy:** Docker · Render
-- [Live app](https://smaakvol.onrender.com) · [Frontend repo](https://github.com/HOGENT-frontendweb/frontendweb-2526-PlasWicke) · [Backend repo](https://github.com/HOGENT-frontendweb/frontendweb-2526-PlasWicke)
+-  [Live app](https://smaakvol.onrender.com) · [Frontend repo](https://github.com/HOGENT-frontendweb/frontendweb-2526-PlasWicke) · [Backend repo](https://github.com/HOGENT-frontendweb/frontendweb-2526-PlasWicke)
 
 ---
 
-### Delaware Admin App — Bedrijfsadministratie platform
+###  Delaware Admin App — Bedrijfsadministratie platform
 > Enterprise administratieplatform gebouwd in opdracht van Delaware.
 
 - **Frontend:** React
 - **Backend:** REST API
 - **Extra:** Standalone Java applicatie als onderdeel van hetzelfde project
-- [Frontend](https://github.com/HoGentProjectenII/2026-react-gent8) · [Backend](https://github.com/HoGentProjectenII/2026-backend-gent8) · [Java app](https://github.com/HoGentProjectenII/2026-java-gent8)
+-  [Frontend](https://github.com/HoGentProjectenII/2026-react-gent8) · [Backend](https://github.com/HoGentProjectenII/2026-backend-gent8) · [Java app](https://github.com/HoGentProjectenII/2026-java-gent8)
 
 ---
 
-### FIFA World Cup App — Toernooi overzicht
-> Java Spring Boot webapplicatie met Thymeleaf templating voor het bijhouden van FIFA World Cup data.
+###  FIFA World Cup App — Toernooi voorspellingen
+> Java Spring Boot webapplicatie waar gebruikers WK-wedstrijden kunnen bekijken en scores voorspellen. Een scorebord toont de beste voorspellers.
 
 - **Tech:** Java · Spring Boot · Thymeleaf · MySQL
 -  [GitHub repository](https://github.com/irisplas/fifa-worldcup-app)
@@ -72,7 +72,6 @@ Fullstack developer in opleiding.
 
 
 <div align="center">
-
 
 
 </div>
